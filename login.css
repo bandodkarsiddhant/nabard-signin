@@ -1,0 +1,172 @@
+@font-face {
+        font-family: "Roboto";
+        src: url("./assets/fonts/Roboto/Roboto-Regular.ttf") format("truetype"),
+          url("./assets/fonts/Roboto-Bold.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      body {
+        font-family: "Roboto", sans-serif;
+      }
+
+      .login {
+        min-height: 100vh;
+        position: relative;
+      }
+
+      .bg-image {
+        position: relative;
+        background: linear-gradient(180deg, #fff 0%, #f3f4e3 100%);
+
+        /* background-image: url("./assets/images/login.jpg");
+        background-size: 100% 100%;
+        background-position: center center;
+        background-repeat: no-repeat; */
+      }
+
+      .login-heading {
+        font-weight: 300;
+        font-size: 20px;
+        letter-spacing: 0.5px;
+      }
+
+      .btn-login {
+        font-size: 0.9rem;
+        letter-spacing: 0.05rem;
+        padding: 0.75rem 1rem;
+        background-color: #16685c;
+        transition: background-color 0.2s ease, opacity 0.2s ease;
+        border: none;
+        box-shadow: 0px 11px 31.5px 0px rgba(12, 96, 50, 0.38);
+      }
+
+      .btn-login:hover {
+        background-color: #16685c;
+        opacity: 0.9;
+        border: none;
+      }
+
+      /* Sid css */
+      .img-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .img-wrapper img {
+        width: 18vw;
+      }
+
+      .input-wrapper span {
+        position: absolute;
+        margin-left: 10px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+      }
+
+      input.form-control {
+        height: 40px !important;
+      }
+
+      .form-group img {
+        position: absolute;
+        margin-left: 10px;
+        z-index: 9999;
+      }
+
+      input.form-control {
+        position: relative;
+        padding-left: 45px !important;
+      }
+
+      .form-group span {
+        position: absolute;
+        height: 40px;
+        display: flex;
+        align-items: center;
+      }
+
+      #right-chevron-icon {
+        display: flex;
+        float: right;
+        height: 18px;
+      }
+
+      .link-wrapper {
+        position: absolute;
+        bottom: 30px;
+      }
+
+      .link-wrapper a,
+      span {
+        color: #7e84a3;
+      }
+
+      .footer-logo {
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        border-left: none;
+      }
+
+      /* #nabard-logo {
+        width: 3rem;
+        height: 4rem;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+      } */
+
+      #login-asset1 {
+        position: absolute;
+        top: 0;
+        right: 0;
+      }
+
+      /* #login-asset2 {
+        position: absolute;
+        top: 6rem;
+        left: 1rem;
+        width: 20vw;
+      } */
+
+      #login-asset3 {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 55vh;
+      }
+
+      #login-asset4 {
+        position: absolute;
+        right: 0;
+        bottom: 30vh;
+        width: 26vw;
+      }
+
+      #login-asset5 {
+        position: absolute;
+        right: 24vw;
+        bottom: 25vh;
+        width: 20vw;
+      }
+
+      #logo-container {
+        position: absolute;
+        top: 1rem;
+        left: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 2vh;
+      }
+
+      #nabard-logo {
+        width: 3rem;
+        height: 4rem;
+      }
+
+      #login-asset2 {
+        width: 20vw;
+      }
