@@ -1,0 +1,26 @@
+<svg width="77" height="77" viewBox="0 0 77 77" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="77" height="77" fill="#F5F5F5"/>
+<g id="1.1_Login">
+<rect width="1366" height="768" transform="translate(-606)" fill="url(#paint0_linear_0_1)"/>
+<g id="Group 289563">
+<g id="Group 289408">
+<path id="Path 123" d="M77 -2.65643e-06V77C55.7644 77 38.5418 59.7774 38.5418 38.4582C59.7774 38.4582 77 21.2356 77 -2.65643e-06Z" fill="#E2E085"/>
+<path id="Path 124" d="M77 -3.45707e-05C55.7644 -3.45707e-05 38.5418 17.2225 38.5418 38.4581C17.2226 38.4581 2.92362e-05 21.2356 2.92362e-05 -3.45707e-05H77Z" fill="#CEDE59"/>
+<path id="Path 125" d="M77 -3.45707e-05C77 21.2356 59.7774 38.4581 38.5418 38.4581C38.5418 17.2225 55.7644 -3.45707e-05 77 -3.45707e-05Z" fill="#FEE472"/>
+</g>
+</g>
+<g id="Group 289564">
+<g id="Group 289408_2">
+<path id="Path 123_2" d="M77 -2.65643e-06V77C55.7644 77 38.5418 59.7774 38.5418 38.4582C59.7774 38.4582 77 21.2356 77 -2.65643e-06Z" fill="#E2E085"/>
+<path id="Path 124_2" d="M77 -3.45707e-05C55.7644 -3.45707e-05 38.5418 17.2225 38.5418 38.4581C17.2226 38.4581 2.92362e-05 21.2356 2.92362e-05 -3.45707e-05H77Z" fill="#CEDE59"/>
+<path id="Path 125_2" d="M77 -3.45707e-05C77 21.2356 59.7774 38.4581 38.5418 38.4581C38.5418 17.2225 55.7644 -3.45707e-05 77 -3.45707e-05Z" fill="#FEE472"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="683" y1="0" x2="683" y2="768" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F3F4E3"/>
+</linearGradient>
+</defs>
+</svg>
